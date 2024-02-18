@@ -1,0 +1,4 @@
+name: testPlugin
+version: '${project.version}'
+main: org.lcolgithub.testplugin.TestPlugin
+api-version: '1.20'
